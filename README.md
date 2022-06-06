@@ -1,8 +1,9 @@
 ### Olá, eu sou a Lorraine Laiandra 👋
 
-- 🌱 Estudando HTML/CSS3, JS, Java, ReactJS, NodeJS e Kotlin.
-- 📍  De: Anápolis-GO
-- 😄 Pronouns: Ela/Dela
+- 🌱 Atualmente estudante de Ads.
+- Atualmente aprendendo HTML/CSS3, JS, Java, ReactJS, NodeJS e Kotlin.
+- 📍  De: Anápolis-GO.
+- 😄 Pronouns: Ela/Dela.
 
 <div align="center">
   <a href="https://github.com/lohlaiandra">
