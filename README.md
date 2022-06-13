@@ -7,6 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/lohlaiandra">
+    
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohlaiandra)](https://github.com/lohlaiandra/github-readme-stats)
+   
   
 
 <div style="display: inline_block"><br>
@@ -19,7 +23,7 @@
   </div>
     
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+   
   
 
   ##
