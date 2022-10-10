@@ -2,7 +2,7 @@
 ## My name is Lorraine and my nickname is "Lo"!
 
 - 🌱 Im student analysis and systems development.
-- I'm studying about database, cloud structure and data analysis..
+- :computer: I'm studying about database, cloud structure and data analysis..
 - :office: currently interning in the data engineering area.
 - 📍  From: Anápolis-GO.
 - 😄 Pronouns: she/her.
