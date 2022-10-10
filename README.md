@@ -3,7 +3,7 @@
 
 - 🌱 Im student analysis and systems development.
 - I'm studying about database, cloud structure and data analysis..
-- currently interning in the data engineering area.
+- :office: currently interning in the data engineering area.
 - 📍  From: Anápolis-GO.
 - 😄 Pronouns: she/her.
 
