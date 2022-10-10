@@ -1,9 +1,11 @@
-### Olá, eu sou a Lorraine Laiandra 👋
+###  👋 Hello! Welcome to my Github profile.
+## My name is Lorraine and my nickname is "Lo"!
 
-- 🌱 Estudante de Ads.
-- Atualmente estagiando na área de de engenharia de dados.
-- 📍  De: Anápolis-GO.
-- 😄 Pronouns: Ela/Dela.
+- 🌱 Im student analysis and systems development.
+- I'm studying about database, cloud structure and data analysis..
+- currently interning in the data engineering area.
+- 📍  From: Anápolis-GO.
+- 😄 Pronouns: she/her.
 
 <div align="center">
   <a href="https://github.com/lohlaiandra">
